@@ -60,7 +60,7 @@ class AppState(TypedDict):
 
 model = ChatOpenAI(
     model="moonshotai/kimi-k2:free",
-    api_key="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",
+    api_key="",
     base_url="https://openrouter.ai/api/v1",
     temperature=0.8,
 )
