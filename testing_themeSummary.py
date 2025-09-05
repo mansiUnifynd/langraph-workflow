@@ -16,7 +16,7 @@ from langgraph.store.memory import InMemoryStore
 USER_ID = "user-456"
 
 # Setup
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 os.environ["OPENAI_BASE_URL"] = "https://openrouter.ai/api/v1"
 
 
